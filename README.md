@@ -32,18 +32,18 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="226" src="https://i.pinimg.com/originals/32/d2/6b/32d26bdb1fd1ccc299db361210c6b000.gif"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">✞</h1>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="202" src="https://i.pinimg.com/originals/db/d0/11/dbd011ba43c34f77234e102b8935dce5.gif"  />
+  <img data-importer="image" height="202" src="https://i.pinimg.com/736x/ab/c4/bb/abc4bb0f73041e1b070850cedcdcf336.jpg"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="226" src="https://i.pinimg.com/736x/b6/d8/c3/b6d8c3cdc3ed22c7c92cdc9f4415d614.jpg"  />
 </div>
 
 ###

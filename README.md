@@ -33,7 +33,17 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://64.media.tumblr.com/4adf3a4b048c945d823a25c73f9b76a2/77c3da50ff4e68ca-fe/s540x810/5b9d2ea4354ed63cf6deb27cf1b2307460f3cbb8.gif"  />
+  <img data-importer="image" height="226" src="https://i.pinimg.com/originals/32/d2/6b/32d26bdb1fd1ccc299db361210c6b000.gif"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">✞</h1>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="202" src="https://i.pinimg.com/originals/db/d0/11/dbd011ba43c34f77234e102b8935dce5.gif"  />
 </div>
 
 ###
@@ -58,25 +68,9 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/_Avs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=_Avs&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="70" src="https://64.media.tumblr.com/3c67416cbfbe6bf1c3e3fef900ad6198/6c940d95a3f14f7d-76/s2048x3072/3ae575d526762b691e2927583b8a31c174491a7b.pnj"  />
+  <img data-importer="image" height="270" src="https://i.pinimg.com/736x/ee/8c/a8/ee8ca89dc50d43a17a12a0fc018b5dc7.jpg"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avvigail/avvigail/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avvigail/avvigail/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/avvigail/avvigail/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 

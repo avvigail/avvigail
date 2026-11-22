@@ -1,81 +1,74 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=%F0%9D%93%A6%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86!&fontSize=125&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=3C0061&strokeWidth=5&animation=fadeIn&desc=%F0%9D%93%A6%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86!&descSize=102&descAlign=48&descAlignY=64&textBg=false&theme=dark"  />
+
+<div data-importer="border" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=footer&text=%F0%9D%90%96%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84%20%F0%9D%90%93%F0%9D%90%8E&fontSize=85&fontColor=8B5E3C&fontAlign=50&fontAlignY=50&stroke=3D2417&strokeWidth=3&animation=fadeIn" />
+</div>
+
+<div data-importer="border" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=95&section=footer&text=%F0%9D%97%94%F0%9D%98%83%F0%9D%97%B6%27%F0%9D%98%80%20%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2%21%21&fontSize=48&fontColor=D6A582&fontAlign=50&fontAlignY=50&stroke=5A341C&strokeWidth=3&animation=fadeIn" />
 </div>
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=%F0%9D%98%81%F0%9D%97%BC.%20.%20&fontSize=85&fontColor=FFFFFF&fontAlign=54&fontAlignY=50&rotate=0&stroke=3C0061&strokeWidth=5&animation=fadeIn&desc=%F0%9D%98%81%F0%9D%97%BC&descSize=84&descAlign=50&descAlignY=64&textBg=false&theme=dark"  />
-</div>
+<h6 data-importer="text" align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⣦⡀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⡟⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣿⡦⠄⠀⠀⠀⡀⢸⠀⠀⠀⠀⠀⠠⠔⣴⡦<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡆⠀⠀⣀⣀⣸⣿⣿⣁⣀⣀⠀⠀⠈⠈⠁<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠹⢻⠿⠅⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⡀⣆⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢦⣀⠀⠀⣿⣿⡀⠀⣀⡴⠀⠀⠈⠝⡿⠀⠀⠀⢀⣀⣰⣼⣶⣂⣀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣶⣿⣿⣶⣿⡿⠁⠀⠀⠀⠀⠁⠀⠀⠀⠀⠈⠹⢻⠿⠍⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣠⣤⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣤⣤⣄⣀⠀⠀⠀⠀⠀⢘⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⢙⣿⣿⣿⣿⣿⣿⡋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢀⠀⠀⠀⢠⣿⠿⠛⣿⣿⠟⠿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠾⠳⠀⠀⠀⠈⠀⠀⠀⢻⡿⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⡄⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⣾⣀⠀⠀⠀⠀⠒⠺⡿⡒⠂⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠐⠒⠒⣺⣿⣗⡚⠒⠂⠀⠀⠀⠃⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠿⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>　. 　 ˚　.　　 *　　. 　 ˚　.　˚　　. 　 　.　　. 　 　.　.　*　　. 　 ˚　.　　.　　. 　 ˚　.　　. 　 ˚　　　* 　　.　. 　 ˚　.　　* 　　.　*　. 　 ˚</h6>
 
-###
-
-<h1 data-importer="text" align="center">𝗔𝘃𝗶'𝘀 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!!</h1>
-
-###
-
-<div data-importer="image" align="left">
-  <img data-importer="image" height="333" src="https://i.pinimg.com/736x/0c/a3/e3/0ca3e387bd494a406cd50dc7636dd9db.jpg"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="50" src="https://64.media.tumblr.com/1d5fdaedf5aeb61341710e96e6b26b55/145f43c9a8ca2087-5f/s400x600/f53089fe6bc59526344b8a0cc5e6b8c608958ab1.pnj"  />
+<div align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31izgbqidlepmyepyeq4osdgtdgu&theme=spotify&count=1&header=0&time=0&now_playing=0&progress=0&duration=1&bg_color=482719&text_color=D6A582&artist_color=C99B72&width=600" width="600" />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="12" src="https://64.media.tumblr.com/a3c6a93b65414cfc4b85a09da7c426e0/ea428153ee273647-bf/s2048x3072/4016194217e9631fca3fdb3bca29f36fba49a587.pnj"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">✞</h1>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="202" src="https://i.pinimg.com/736x/ab/c4/bb/abc4bb0f73041e1b070850cedcdcf336.jpg"  />
+  <img data-importer="image" height="60" src="https://64.media.tumblr.com/a2809fd97d2f1c2561f12ac921d8bb31/eb8de995a288b9bb-9c/s2048x3072/9c4815ea0917c8ee02e64fb7e5aa9f9f5a20b18d.pnj" />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="226" src="https://i.pinimg.com/736x/b6/d8/c3/b6d8c3cdc3ed22c7c92cdc9f4415d614.jpg"  />
+  <img data-importer="image" height="11" src="https://64.media.tumblr.com/055a1b2b3264cb31f9b6566cc7f570f1/7fcd80fb8c4d4fd0-b0/s1280x1920/b95d46ec52347927b3a01ac9a7a33066e4d8ea3d.gifv" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avvigail/avvigail/main/assets/tonight-title-fade.gif" width="620" alt="Tonight is the night" />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="12" src="https://64.media.tumblr.com/a3c6a93b65414cfc4b85a09da7c426e0/ea428153ee273647-bf/s2048x3072/4016194217e9631fca3fdb3bca29f36fba49a587.pnj"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀　　　　　　　　　　　　　　⠀⠀⠀⠀⠀* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>　　　　　　*　　　　　　　　　　　.<br>.　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*<br>　　　　　⠀　　　　⠀　　,<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　<br> 　　˚　　　⠀　⠀  　　,　　　　　　.<br>　　　　　　　　　　　　　.</h3>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/avvigail/avvigail/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="12" src="https://64.media.tumblr.com/a3c6a93b65414cfc4b85a09da7c426e0/ea428153ee273647-bf/s2048x3072/4016194217e9631fca3fdb3bca29f36fba49a587.pnj"  />
+  <img data-importer="image" height="382" src="https://i.pinimg.com/1200x/5e/69/f0/5e69f0fd5736be5294f5a0aeeed85af0.jpg" />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="270" src="https://i.pinimg.com/736x/ee/8c/a8/ee8ca89dc50d43a17a12a0fc018b5dc7.jpg"  />
+  <img data-importer="image" height="194" src="https://64.media.tumblr.com/67268a33aed059d82c773b1ff8374c10/d5fb3c05e7c3fccc-d0/s2048x3072/5161f948f586152ddd899af9561f3761fdc4ee6e.pnj" />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="12" src="https://64.media.tumblr.com/a3c6a93b65414cfc4b85a09da7c426e0/ea428153ee273647-bf/s2048x3072/4016194217e9631fca3fdb3bca29f36fba49a587.pnj"  />
+  <img data-importer="image" height="323" src="https://i.pinimg.com/736x/53/73/8d/53738daf47327d54a50ac15c22a5e923.jpg" />
 </div>
 
 ###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="31" src="https://64.media.tumblr.com/7d828db22c177b2aef6a8f9ae1694f53/b8cd044ac524d7bb-56/s1280x1920/30c2090db06c160e21c0472a86ddff11d53a44da.png" />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="101" src="https://64.media.tumblr.com/1769d910864769ea8fd272ddf9d22b94/1539e010ce8fa124-15/s2048x3072/0219ff0703ae2a745906a21ee06a393893515cb3.pnj" />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=avvigail.avvigail" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avvigail/avvigail/output/github-snake.svg" width="100%" />
+</div>

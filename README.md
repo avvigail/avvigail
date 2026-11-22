@@ -1,4 +1,3 @@
-
 <div data-importer="border" align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=footer&text=%F0%9D%90%96%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84%20%F0%9D%90%93%F0%9D%90%8E&fontSize=85&fontColor=8B5E3C&fontAlign=50&fontAlignY=50&stroke=3D2417&strokeWidth=3&animation=fadeIn" />
 </div>
@@ -30,7 +29,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/avvigail/avvigail/main/assets/tonight-title-fade.gif" width="620" alt="Tonight is the night" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=-%20%E2%9D%9D%20%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD&fontSize=40&fontColor=C95A5A&fontAlign=50&fontAlignY=50&stroke=5A0E12&strokeWidth=2&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9D%90%A2%F0%9D%90%AC&fontSize=34&fontColor=C95A5A&fontAlign=50&fontAlignY=50&stroke=5A0E12&strokeWidth=2&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD.%20.%20%E2%9D%9E&fontSize=40&fontColor=C95A5A&fontAlign=50&fontAlignY=50&stroke=5A0E12&strokeWidth=2&animation=fadeIn" />
 </div>
 
 ###
